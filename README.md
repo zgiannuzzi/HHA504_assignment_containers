@@ -46,3 +46,17 @@ CMD ["python", "flask_app.py"]
 
 1. Created Container app in GCP 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_containers/blob/main/dockerGCP1.png)
+
+2. Deployed and successfully ran dockerfile 
+-link for flask app GCP https://hha504flaskapp-227190841197.us-central1.run.app
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_containers/blob/main/dockerGCP2.png)
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_containers/blob/main/dockerGCP3.png)
+
+## Ran docker from Azure
+1. Created container in Azure 
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_containers/blob/main/dockerAzure1.png)
+
+2. Deployed and succesfully was able to get app to run through Azure 
+- link for flask app in Azure https://hha504flaskapp.mangoforest-4a073be3.eastus.azurecontainerapps.io/
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_containers/blob/main/dockerAzure2.png)
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_containers/blob/main/dockerAzure3.png)
